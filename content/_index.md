@@ -17,6 +17,7 @@ sections:
       filters:
         folders:
           - blog
+          - papers
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
