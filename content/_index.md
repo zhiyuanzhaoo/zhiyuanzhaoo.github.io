@@ -14,10 +14,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: collection
     content:
-      filters:
-        folders:
-          - papers
-          # - blog
+       "TBD."
           
     design:
       spacing:
